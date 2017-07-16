@@ -1,0 +1,7 @@
+I used map data from below link:
+https://mapzen.com/data/metro-extracts/your-extracts/0e538ffd2c40
+
+Map Area: Around Mountain View and Palo Alto, CA, USA
+I chose this area because this area is the most active area for the cutting-edge technology. Many companies set their headquarters at there, such as Google and Tesla.
+
+My dream is looking for a job of data analyst at this area, so it could be a good opportunity to explore it for my first step :)

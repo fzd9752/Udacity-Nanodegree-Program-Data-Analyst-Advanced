@@ -1,0 +1,14 @@
+## how to get file size and convert it in Python
+https://stackoverflow.com/a/39988702
+
+## set conda environment for data analyst projects
+https://discussions.udacity.com/t/mini-project-of-naive-bayes-lesson/165051/9
+
+https://stackoverflow.com/questions/10589620/syntaxerror-non-ascii-character-xa3-in-file-when-function-returns-%C2%A3
+
+## Set up mongodb locally
+https://ademirgabardo.wordpress.com/2016/02/02/installing-and-running-mongodb-on-mac-osx-for-beginners/
+
+## How to use Geonear in MongoDB
+https://stackoverflow.com/questions/44583550/how-to-use-geonear-with-agreggate-in-pymongo
+https://docs.mongodb.com/manual/reference/operator/aggregation/geoNear/
