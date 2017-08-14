@@ -1,1 +1,2 @@
+[![Stories in Ready](https://badge.waffle.io/fzd9752/Udacity-Nanodegree-Program-Data-Analyst-Advanced.png?label=ready&title=Ready)](https://waffle.io/fzd9752/Udacity-Nanodegree-Program-Data-Analyst-Advanced?utm_source=badge)
 # Udacity-Nanodegree-Program-Data-Analyst-Advanced-
